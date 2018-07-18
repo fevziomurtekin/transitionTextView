@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="transtionText">
+        <attr name="transition_delay_time" format="integer"/>
+        <attr name="start_transition_time" format="integer"/>
+        <attr name="finish_transition_time" format="integer"/>
+    </declare-styleable>
+</resources>
